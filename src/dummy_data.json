@@ -1,0 +1,202 @@
+{
+	"carouselProps": [
+		{
+			"heroSrc": "images/h4-slide.png",
+			"heading": "Bold Maroon Gown",
+			"subHeading": "Strike out red",
+			"altText": "Maroon gown",
+			"url": "#"
+		},
+		{
+			"heroSrc": "images/h4-slide2.png",
+			"heading": "Buy one, get one 50% off",
+			"subHeading": "be the dream",
+			"altText": "purple gown",
+			"url": "#"
+		},
+		{
+			"heroSrc": "images/h4-slide3.png",
+			"heading": "Ruffled Off Shoulders",
+			"subHeading": "Be the Tantalizing beauty",
+			"altText": "Ruffled off black",
+			"url": "#"
+		},
+		{
+			"heroSrc": "images/h4-slide4.png",
+			"heading": "Red Satin Gown",
+			"subHeading": "Product(RED)",
+			"altText": "Red Satin Gown",
+			"url": "#"
+		},
+		{
+			"heroSrc": "images/h4-slide7.png",
+			"heading": "Blue A line Dress",
+			"subHeading": "Feel the vibe",
+			"altText": "Blue A line",
+			"url": "#"
+		}
+	],
+	"products": [
+		{
+			"id": 1,
+			"title": "Myra bags with Turn lock closure",
+			"price": 109.95,
+			"description": "Your perfect pack for everyday use and also for your office hours. Stash your bag with everything you need and it's your everyday",
+			"category": "men clothing",
+			"image": "https://twicpics.celine.com/product-prd/images/large/189793HSC.38NO_1_LIBRARY_80370.jpg?twic=v1/dpr=1.25/cover=450x450"
+		},
+		{
+			"id": 2,
+			"title": "Myra's Celine bags with block print ",
+			"price": 22.3,
+			"description": "Slim-fitting style, contrast raglan long, three-button henley pockets, light weight & soft fabric for breathable and comfortable take-out. The style of this celine bag gives you a whole new different look and be a masterpiece in itself which suits you with different styles and looks",
+			"category": "men clothing",
+			"image": "https://twicpics.celine.com/product-prd/images/large/196262CYX.01BC_2_SUM21_613746.jpg?twic=v1/dpr=1.25/cover=300x300"
+		},
+		{
+			"id": 3,
+			"title": "Sundress with the frills",
+			"price": 55.99,
+			"description": "great outerwear dress for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to mother, wife or daughter in this thanksgiving or Christmas Day.",
+			"category": "men clothing",
+			"image": "https://cache.net-a-porter.com/variants/images/17428787258758903/in/w1365_q80.jpg"
+		},
+		{
+			"id": 4,
+			"title": "Jumpsuit with the split ",
+			"price": 15.99,
+			"description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+			"category": "men clothing",
+			"image": "https://twicpics.celine.com/product-prd/images/large/2P515316N.01NO_1_SUM21.jpg?twic=v1/dpr=1.25/cover=460x460"
+		},
+		{
+			"id": 5,
+			"title": "Pleated collar dress with polka dots",
+			"price": 695,
+			"description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+			"category": "jewelery",
+			"image": "https://twicpics.celine.com/product-prd/images/large/2R88A966H.38BY_1_SUM21_612806.jpg?twic=v1/dpr=1.25/cover=460x460"
+		},
+		{
+			"id": 6,
+			"title": "Rose Gold Sunday necklace ",
+			"price": 168,
+			"description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+			"category": "jewelery",
+			"image": "https://twicpics.celine.com/product-prd/images/large/46P086GYD.37YW_1_SUM19_116123%20(2).jpg?twic=v1/dpr=1.25/cover=460x460"
+		},
+		{
+			"id": 7,
+			"title": "White Gold Plated Princess",
+			"price": 9.99,
+			"description": "Classic Created Wedding Engagement Solitaire Diamond Promise nechlace for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+			"category": "jewelery",
+			"image": "https://twicpics.celine.com/product-prd/images/large/46Q506GWD.37WW_1_SUM19_116329.jpg?twic=v1/dpr=1.25/cover=460x460"
+		},
+		{
+			"id": 8,
+			"title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+			"price": 10.99,
+			"description": "Rose Gold Plated Double Flared Tunnel Plug Necklace. Made of 316L Stainless Steel",
+			"category": "jewelery",
+			"image": "https://twicpics.celine.com/product-prd/images/large/46Q526GWD.37WW_1_SUM19_116349.jpg?twic=v1/dpr=1.25/cover=460x460"
+		},
+		{
+			"id": 9,
+			"title": "A great carrier for your perfume 3.0 ",
+			"price": 64,
+			"description": "This unique carrier bag for you to take or keep your precious perfumes in it for you. Get the expense show how as a master you live!",
+			"category": "electronics",
+			"image": "https://twicpics.celine.com/product-prd/images/large/4M0032AAL.04BT_2_SPR20_434680.jpg?twic=v1/dpr=1.25/cover=300x300"
+		},
+		{
+			"id": 10,
+			"title": "Perfume carrier bag + multi-purpose things handler",
+			"price": 109,
+			"description": "Alongwith perfumes or handkerchief's or either your cosmetics, all multi-purpose things handler here for you by Myra, to help keep your things organized and with care",
+			"category": "electronics",
+			"image": "https://twicpics.celine.com/product-prd/images/large/4M0212AB5.04LU_2_SPR20_433070.jpg?twic=v1/dpr=1.25/cover=300x300"
+		},
+		{
+			"id": 11,
+			"title": "Waist Print Dress",
+			"price": 309,
+			"description": "Banquet Beach Sand Vacation Get Together",
+			"category": "women clothing",
+			"image": "https://bl.aopcdn.com/goods/SPJDU7JEP7R/26f1d683-5a9c-4422-b09d-3a3e2f3f70f0.jpg?x-oss-process=image/resize,m_pad,h_720,w_540,color_FFFFFF/quality,q_90/format,jpg/watermark,type_d3F5LXplbmhlaQ,size_20,text_U1BKRFU3SkVQN1I,color_FFFFFF,shadow_50,t_100,g_sw,x_10,y_10"
+		},
+		{
+			"id": 12,
+			"title": "Round Neck Printed Dress",
+			"price": 19.56,
+			"description": "All Season dress for women clothing, Cold Gentle Machine Wash",
+			"category": "women clothing",
+			"image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRH8s8L9r3kfPl7vPz-pLik4ilAhdwWjPv6amoOgiHPOoM1OIA&usqp=CAE"
+		},
+		{
+			"id": 13,
+			"title": "Summer floal frilled dress",
+			"price": 5900,
+			"description": "To celebrate Chinese New Year, Gucci has developed a whimsical print in collaboration with Disney. ",
+			"category": "women clothing",
+			"image": "https://cache.net-a-porter.com/variants/images/17428787258758903/in/w1365_q80.jpg"
+		},
+		{
+			"id": 14,
+			"title": "Gg Belt Short Dress In Blue",
+			"price": 1450,
+			"description": "The Gucci collection is the pinnacle of Italian craftsmanship and attention to detail as seen in this, as seen in this night blue cotton-silk blend GG belt short dress.",
+			"category": "women clothing",
+			"image": "https://cdn.modesens.com/availability/20039760_1"
+		},
+		{
+			"id": 15,
+			"title": "MAGDALENA SATIN FLORAL GOWN dress",
+			"price": 70,
+			"description": "Magdalena is a garden party queen. She is full of elegance with slim-fitting bodice, a straight neckline, a padded bust, double shoulder straps that cross at the back, a hidden back zipper closure, and a high waist seam with pleating. ",
+			"category": "women clothing",
+			"image": "https://cdn.shopify.com/s/files/1/0070/8853/7651/products/05004-0492_1_a9597a66-61f7-42fd-a7e0-4b786771d488_750x.jpg?v=1579304510"
+		},
+		{
+			"id": 16,
+			"title": "LILA DEEP V SATIN BALL GOWN",
+			"price": 179,
+			"description": "Special Occasion, Have your fairy tale entrance and exit in our stunning Lila! ",
+			"category": "women clothing",
+			"image": "https://cdn.shopify.com/s/files/1/0070/8853/7651/products/05004-0089_1_750x.jpg?v=1579039041"
+		},
+		{
+			"id": 17,
+			"title": "14KT YELLOW GOLD LUXE PAVE DIAMOND BUTTERFLY NECKLACE",
+			"price": 2120,
+			"description": "14KT Yellow Gold Luxe Pave Diamond Butterfly Necklace, Butterfly measures approximately 3/4 wide 1/2 tall.",
+			"category": "jewelery",
+			"image": "https://cdn.shopify.com/s/files/1/1369/3013/products/1000000941-YG_1200x1200.jpg?v=1611012726"
+		},
+		{
+			"id": 18,
+			"title": "Rose Gold Pendant Necklace",
+			"price": 149,
+			"description": "This intertwined circular design is elegant enough for any occasion while the contemporary styling makes a real statement of delicate luxury.",
+			"category": "jewelery",
+			"image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDKKqD-nVhaQcp_YVFJOvGMCEhp9B7F582aXOOLK3shTnOSrTHn551iLDIu1mX30t1uWbZIlE&usqp=CAY"
+		},
+		{
+			"id": 19,
+			"title": "Mondrian",
+			"price": 245,
+			"description": "An everyday timepiece that’s anything but ordinary, the Mondrian set stuns with a classic watch and matching crystal bangle",
+			"category": "jewelery",
+			"image": "https://cdn.shopify.com/s/files/1/1258/5021/products/jbw-mondrian-j6303b-gold-gold-diamond-watch-bracelet-set-b-front-2_1600x.png?v=1583861213"
+		},
+		{
+			"id": 20,
+			"title": "Michael Kors watch",
+			"price": 499,
+			"description": "Stainless steel bracelet in polished rose gold finishing with white acetate links at the center – Locking clasp with push button",
+			"category": "jewelery",
+			"image": "https://bigamartusax.s3-accelerate.amazonaws.com/2019/08/81zrybEFImL._UL1500_.jpg"
+		}
+	]
+	
+}
