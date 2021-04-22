@@ -1,3 +1,3 @@
 # Webstore_React
 
-Assignment is committed to master 
+Assignment is committed to master branch
